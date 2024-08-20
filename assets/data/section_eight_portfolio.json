@@ -6,6 +6,44 @@
     "subTitle": "My work",
     "projects":[
       {
+        "appMainColor": "#13294B",
+        "appIcon": "digital_office.png",
+        "appName": "Digital Office",
+        "appBio": "Digitally Transforming, MENA Businesses.",
+        "fullDescription": "Watan Digital Office is a specialized platform that enables external clients with ongoing projects to engage directly with development teams and monitor project progress with ease and efficiency.",
+        "mainPreviewImage": "wfd_prev.png",
+        "appStoreId": "6449026931",
+        "playPackageId": "watan.digital.office.watan_digital_office",
+        "presentationImage": "wfd_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Direct and Efficient Communication: The app allows external clients to access development teams for technical discussions and direct project monitoring."
+          },
+          {
+            "future": "Effective Project Management: Users can track project schedules, manage tasks, and participate in critical strategic decision-making."
+          },
+          {
+            "future": "This app aims to enhance communication between the company and its external clients, and improve the experience of internal projects through an easy-to-use and secure platform."
+          },
+
+          {
+            "future": "24 hours service.(24/7 service week days)"
+          },
+          {
+            "future": "Home Services (All home services All the fields)"
+          },
+          {
+            "future": "Skilled Technicians(A group of skilled technicians at your service)"
+          }
+        ]
+      },
+      {
         "appMainColor": "#2BAAB7",
         "appIcon": "wfi.png",
         "appName": "WFI",
@@ -242,9 +280,9 @@
         "appStoreId": "6446154108",
         "playPackageId": "afandem.app.afandem_client",
         "presentationImage": "afandem_pres.png",
-        "isSoon": false,
-        "isIosPlatform": true,
-        "isAndroidPlatform": true,
+        "isSoon": true,
+        "isIosPlatform": false,
+        "isAndroidPlatform": false,
         "isFlutterPlatform": true,
         "isWebPlatform": false,
         "isHuaweiPlatform": false,
@@ -279,9 +317,9 @@
         "appStoreId": "6446154657",
         "playPackageId": "app.afandem.afandem_service",
         "presentationImage": "checlk.png",
-        "isSoon": false,
-        "isIosPlatform": true,
-        "isAndroidPlatform": true,
+        "isSoon": true,
+        "isIosPlatform": false,
+        "isAndroidPlatform": false,
         "isFlutterPlatform": true,
         "isWebPlatform": false,
         "isHuaweiPlatform": false,
@@ -391,9 +429,9 @@
         "appStoreId": "",
         "playPackageId": "com.aitechno.jamela",
         "presentationImage": "jamela_pres.png",
-        "isSoon": false,
+        "isSoon": true,
         "isIosPlatform": false,
-        "isAndroidPlatform": true,
+        "isAndroidPlatform": false,
         "isFlutterPlatform": true,
         "isWebPlatform": false,
         "isHuaweiPlatform": false,

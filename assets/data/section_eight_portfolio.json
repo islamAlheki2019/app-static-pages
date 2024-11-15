@@ -3,18 +3,18 @@
   "message": "",
   "data":{
     "enabled": true,
-    "subTitle": "My work",
+    "subTitle": "My work experience",
     "projects":[
       {
-        "appMainColor": "#13294B",
-        "appIcon": "digital_office.png",
-        "appName": "Digital Office",
-        "appBio": "Digitally Transforming, MENA Businesses.",
-        "fullDescription": "Watan Digital Office is a specialized platform that enables external clients with ongoing projects to engage directly with development teams and monitor project progress with ease and efficiency.",
-        "mainPreviewImage": "wfd_prev.png",
-        "appStoreId": "6449026931",
-        "playPackageId": "watan.digital.office.watan_digital_office",
-        "presentationImage": "wfd_pres.png",
+        "appMainColor": "#332774",
+        "appIcon": "mekyal.png",
+        "appName": "Mekyal",
+        "appBio": "Innovative finance practices.",
+        "fullDescription": "Mekyal seeks to achieve leadership in the local market in the field of crowdfunding, which is concerned with supporting distinguished project owners in several sectors and linking them to the broad investor market to provide an opportunity to present their creative ideas and obtain support to develop investments and create a safe and promising investment environment that provides distinct opportunities for interested investors.",
+        "mainPreviewImage": "mekyal_preview.png",
+        "appStoreId": "1641431778",
+        "playPackageId": "com.mekyal.crowdfunding",
+        "presentationImage": "mekyal_present.png",
         "isSoon": false,
         "isIosPlatform": true,
         "isAndroidPlatform": true,
@@ -23,23 +23,127 @@
         "isHuaweiPlatform": false,
         "futureList":[
           {
-            "future": "Direct and Efficient Communication: The app allows external clients to access development teams for technical discussions and direct project monitoring."
+            "future": "The focus on financial technology is increasing globally and locally as an ideal option for economic diversification, and given the enormous and distinctive potential of startups in the Kingdom, one of the goals of the Kingdom's Vision 2030 has become to support local startups and medium-sized companies.Based on this fact, Mekyal Finance has launched to provide the latest financial technology and crowdfunding services through a modern electronic platform run by qualified experts, as we choose distinguished companies with a promising future to provide advisory services to develop them and help them achieve the growth they aspire to, provide unique investment opportunities, and achieve distinctive returns. Mekyal seeks to achieve leadership in the local market in the field of crowdfunding, which is concerned with supporting distinguished project owners in several sectors and linking them to the broad investor market to provide an opportunity to present their creative ideas and obtain support to develop investments and create a safe and promising investment environment that provides distinct opportunities for interested investors."
           },
           {
-            "future": "Effective Project Management: Users can track project schedules, manage tasks, and participate in critical strategic decision-making."
+            "future": "The focus on financial technology is increasing globally and locally as an ideal option for economic diversification, and given the enormous and distinctive potential of startups in the Kingdom, one of the goals of the Kingdom's Vision 2030 has become to support local startups and medium-sized companies.Based on this fact, Mekyal Finance has launched to provide the latest financial technology and crowdfunding services through a modern electronic platform run by qualified experts, as we choose distinguished companies with a promising future to provide advisory services to develop them and help them achieve the growth they aspire to, provide unique investment opportunities, and achieve distinctive returns. Mekyal seeks to achieve leadership in the local market in the field of crowdfunding, which is concerned with supporting distinguished project owners in several sectors and linking them to the broad investor market to provide an opportunity to present their creative ideas and obtain support to develop investments and create a safe and promising investment environment that provides distinct opportunities for interested investors."
           },
           {
-            "future": "This app aims to enhance communication between the company and its external clients, and improve the experience of internal projects through an easy-to-use and secure platform."
+            "future": "Mekyal seeks to achieve leadership in the local market in the field of crowdfunding, which is concerned with supporting distinguished project owners in several sectors and linking them to the broad investor market to provide an opportunity to present their creative ideas and obtain support to develop investments and create a safe and promising investment environment that provides distinct opportunities for interested investors."
+          }
+        ]
+      },
+
+      {
+        "appMainColor": "#5179F0",
+        "appIcon": "imploy.png",
+        "appName": "IMPLOY",
+        "appBio": "Your Employment Partner…",
+        "fullDescription": "With IMPLOY, you can easily filter and search through thousands of potential employees, as well as customize your searches based on specific job roles and skillsets. Additionally, our system provides an automated process for screening and interviewing potential candidates, making it easier for you to find the perfect fit for your organization.",
+        "mainPreviewImage": "imploy.png",
+        "appStoreId": "1659274612",
+        "playPackageId": "watan.imploy_app",
+        "presentationImage": "imploy_presentation.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Your Employment Partner."
+          },
+          {
+            "future": "connect professionals with the organizations that are best suited for them in terms of personal goals, environment, culture, and professional development."
+          },
+          {
+            "future": "help build the career of professionals by taking them to their dream jobs, sharing the right career path insights with them, and providing them with the right professional development guidance."
+          },
+          {
+            "future": "We help organizations improve their process of finding the best fit for their needs"
+          },
+          {
+            "future": "Advanced search to find both employee for company and vice versa"
+          },
+          {
+            "future": "A professional way to display your C.V as well as the job description"
+          }
+        ]
+      },
+      {
+        "appMainColor": "#556040",
+        "appIcon": "masharef_logo.png",
+        "appName": "Masharef",
+        "appBio": "Masharef Hills application provides advanced digital solutions for the residential community.",
+        "fullDescription": "Masharef Hills application provides advanced digital solutions for the residential community, enhances communication between residents, and improves the overall quality of life. It provides a range of services, including:\n- Entry and exit tracking system: The application can be used to track people entering and exiting the residential complex\n- Requesting services: Residents can request services from the complex management, such as maintenance of the complex facilities, through the application.\n- Booking facilities: Residents can book the complex facilities,",
+        "mainPreviewImage": "masharef_prev.png",
+        "appStoreId": "6511250388",
+        "playPackageId": "com.masharef",
+        "presentationImage": "masharef_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Enhances communication between residents."
+          },
+          {
+            "future": "Improves the overall quality of life..as it provides a range of services."
+          },
+          {
+            "future": "Advanced digital solutions for the residential community."
           },
 
           {
-            "future": "24 hours service.(24/7 service week days)"
+            "future": "Entry and exit tracking system: The application can be used to track the entry and exit of people from the residential complex."
           },
           {
-            "future": "Home Services (All home services All the fields)"
+            "future": "Requesting services by residents requesting services from the complex management, such as maintenance of the complex facilities, through the application."
           },
           {
-            "future": "Skilled Technicians(A group of skilled technicians at your service)"
+            "future": "Reservation of facilities: Residents can reserve the complex facilities."
+          }
+        ]
+      },
+      {
+        "appMainColor": "#0F6937",
+        "appIcon": "rotana.png",
+        "appName": "Rotana",
+        "appBio": "Your go-to for series, news, Live Stream and more. Catch up on what you missed. Your entertainment, on-demand.",
+        "fullDescription": "Experience Rotana and explore a world of entertainment! Easily watch the latest movies, series, video clips, and TV programs. Rotana offers a CATCHUP feature to watch any missed content or TV shows. The app also provides news and a TV guide to keep you updated with the latest content.",
+        "mainPreviewImage": "rotana_prev.png",
+        "appStoreId": "1238137062",
+        "playPackageId": "net.rotana",
+        "presentationImage": "rotana_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Easily watch the latest movies."
+          },
+          {
+            "future": "watch the latest series."
+          },
+          {
+            "future": "watch the latest video clips."
+          },
+
+          {
+            "future": "watch the latest movies"
+          },
+          {
+            "future": "watch the latest TV programs"
+          },
+          {
+            "future": "watch the latest News"
           }
         ]
       },
@@ -82,15 +186,54 @@
         ]
       },
       {
-        "appMainColor": "#5179F0",
-        "appIcon": "imploy.png",
-        "appName": "IMPLOY",
-        "appBio": "Your Employment Partner…",
-        "fullDescription": "With IMPLOY, you can easily filter and search through thousands of potential employees, as well as customize your searches based on specific job roles and skillsets. Additionally, our system provides an automated process for screening and interviewing potential candidates, making it easier for you to find the perfect fit for your organization.",
-        "mainPreviewImage": "imploy.png",
-        "appStoreId": "1659274612",
-        "playPackageId": "watan.imploy_app",
-        "presentationImage": "imploy_presentation.png",
+        "appMainColor": "#F86B34",
+        "appIcon": "shaari.png",
+        "appName": "Shaari",
+        "appBio": "The most enriched e-commerce platform in the KSA",
+        "fullDescription": "Tshtri is an online marketplace where you can sell and buy nearly anything quickly, easily, and safely. Within minutes, click, upload, and sell! Our platform helps you sell and buy the right product at the right place.",
+        "mainPreviewImage": "shaari_prev.png",
+        "appStoreId": "6474156266",
+        "playPackageId": "com.watanfd.shaari",
+        "presentationImage": "shaari_pres.png",
+        "isSoon": true,
+        "isIosPlatform": false,
+        "isAndroidPlatform": false,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "than 2000 online shops with a wide range of products."
+          },
+          {
+            "future": "Exclusive offers and codes..Shop online and benefit from offers, codes and more."
+          }, {
+            "future": "Get your favorite brand new comers."
+          },
+          {
+            "future": "Experience and share favorites with friends."
+          },
+          {
+            "future": "Your product as it arrives swiftly at your doorstep."
+          },
+          {
+            "future": "Unlimited free delivery and exclusive offers with Shaari."
+          } ,
+          {
+            "future": "Shari Store is your ideal destination for online shopping with."
+          }
+        ]
+      },
+      {
+        "appMainColor": "#4C361F",
+        "appIcon": "z_card.png",
+        "appName": "ZCard",
+        "appBio": "Z Card is a program that provides discounts up to 100% on hospitals.",
+        "fullDescription": "Analyzes and radiology labs. This is designed\nThe program is for people who want to save money\ntheir medical expenses without sacrificing the quality of care they provide\nthey receive it.\nIn addition to medical discounts, Zed\nCard also discounts on other services such as\nClothing, cafe and restaurant, beauty center, supermarket, furniture, tourism, gym, electronics, real estate. Cars and entertainment. This program is a great way to save money for individuals 3,468",
+        "mainPreviewImage": "zcard_prev.png",
+        "appStoreId": "6449321785",
+        "playPackageId": "zcard.app.zcard",
+        "presentationImage": "zed_pers.png",
         "isSoon": false,
         "isIosPlatform": true,
         "isAndroidPlatform": true,
@@ -99,22 +242,23 @@
         "isHuaweiPlatform": false,
         "futureList":[
           {
-            "future": "Your Employment Partner."
+            "future": "Analyzes and radiology labs."
           },
           {
-            "future": "connect professionals with the organizations that are best suited for them in terms of personal goals, environment, culture, and professional development."
+            "future": "The program is for people who want to save money."
           },
           {
-            "future": "help build the career of professionals by taking them to their dream jobs, sharing the right career path insights with them, and providing them with the right professional development guidance."
+            "future": "This app aims to enhance communication between the company and its external clients, and improve the experience of internal projects through an easy-to-use and secure platform."
+          },
+
+          {
+            "future": "Medical Discounts"
           },
           {
-            "future": "We help organizations improve their process of finding the best fit for their needs"
+            "future": "clothing Discounts "
           },
           {
-            "future": "Advanced search to find both employee for company and vice versa"
-          },
-          {
-            "future": "A professional way to display your C.V as well as the job description"
+            "future": "Cafe's Discounts"
           }
         ]
       },
@@ -158,6 +302,95 @@
           }
         ]
       },
+
+
+
+      {
+        "appMainColor": "#13294B",
+        "appIcon": "digital_office.png",
+        "appName": "Digital Office",
+        "appBio": "Digitally Transforming, MENA Businesses.",
+        "fullDescription": "Watan Digital Office is a specialized platform that enables external clients with ongoing projects to engage directly with development teams and monitor project progress with ease and efficiency.",
+        "mainPreviewImage": "wfd_prev.png",
+        "appStoreId": "6449026931",
+        "playPackageId": "watan.digital.office.watan_digital_office",
+        "presentationImage": "wfd_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Direct and Efficient Communication: The app allows external clients to access development teams for technical discussions and direct project monitoring."
+          },
+          {
+            "future": "Effective Project Management: Users can track project schedules, manage tasks, and participate in critical strategic decision-making."
+          },
+          {
+            "future": "This app aims to enhance communication between the company and its external clients, and improve the experience of internal projects through an easy-to-use and secure platform."
+          },
+
+          {
+            "future": "24 hours service.(24/7 service week days)"
+          },
+          {
+            "future": "Home Services (All home services All the fields)"
+          },
+          {
+            "future": "Skilled Technicians(A group of skilled technicians at your service)"
+          }
+        ]
+      },
+      {
+        "appMainColor": "#6A8974",
+        "appIcon": "etoy_logo.png",
+        "appName": "eToy App",
+        "appBio": "eToy App: Swap, Giveaway, Sell…",
+        "fullDescription": "eToy App is a community that makes a difference, not just an app. eToy App is a unique platform that brings together like-minded people in their communities to swap, give away, or even sell preloved (used) toys in a pleasant setting. Say YES to spreading joy to other children. A simple act that teaches your child the worth of his possessions and how to take care of them (while also decluttering your home!). eToy App also contributes to the reduction of current plastic usage and waste on our earth",
+        "mainPreviewImage": "etoy_prev.png",
+        "appStoreId": "1579176714",
+        "playPackageId": "com.layouti.etoy",
+        "presentationImage": "etoy_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "swap, give away, or even sell preloved (used) toys in a pleasant setting."
+          },
+          {
+            "future": "Spread the culture of recycling and gifting. Create your profile, set your location, and join your local etoy community for kid’s toys."
+          },
+          {
+            "future": "eToy App also contributes to the reduction of current plastic usage and waste on our earth"
+          },
+          {
+            "future": "help you to decluttering your home!"
+          },
+          {
+            "future": "Browse and search for preloved toys, and engage your kid in finding their favorites too! etoy is a child-friendly environment app."
+          },
+          {
+            "future": "By using etoy app, you are helping in cutting down on the current plastic used resulting in waste across our planet & making another kid happy."
+          },
+          {
+            "future": "Contact the toy provider through etoy and confirm the drop-off point to close the deal. etoy is a peer-to-peer marketplace."
+          },
+          {
+            "future": "We also love to give back! Close the deal, and engage with etoyers to gain points & gifts. Be a recycling etoyer hero your child will proud of!."
+          }
+
+        ]
+      },
+
+
+
+
       {
         "appMainColor": "#4C7DDC",
         "appIcon": "warshti_client_logo.png",
@@ -224,50 +457,6 @@
           {
             "future": "order spare parts that need to be replaced directly to the workshop where you schedule an appointment."
           }
-        ]
-      },
-      {
-        "appMainColor": "#6A8974",
-        "appIcon": "etoy_logo.png",
-        "appName": "eToy App",
-        "appBio": "eToy App: Swap, Giveaway, Sell…",
-        "fullDescription": "eToy App is a community that makes a difference, not just an app. eToy App is a unique platform that brings together like-minded people in their communities to swap, give away, or even sell preloved (used) toys in a pleasant setting. Say YES to spreading joy to other children. A simple act that teaches your child the worth of his possessions and how to take care of them (while also decluttering your home!). eToy App also contributes to the reduction of current plastic usage and waste on our earth",
-        "mainPreviewImage": "etoy_prev.png",
-        "appStoreId": "1579176714",
-        "playPackageId": "com.layouti.etoy",
-        "presentationImage": "etoy_pres.png",
-        "isSoon": false,
-        "isIosPlatform": true,
-        "isAndroidPlatform": true,
-        "isFlutterPlatform": true,
-        "isWebPlatform": false,
-        "isHuaweiPlatform": false,
-        "futureList":[
-          {
-            "future": "swap, give away, or even sell preloved (used) toys in a pleasant setting."
-          },
-          {
-            "future": "Spread the culture of recycling and gifting. Create your profile, set your location, and join your local etoy community for kid’s toys."
-          },
-          {
-            "future": "eToy App also contributes to the reduction of current plastic usage and waste on our earth"
-          },
-          {
-            "future": "help you to decluttering your home!"
-          },
-          {
-            "future": "Browse and search for preloved toys, and engage your kid in finding their favorites too! etoy is a child-friendly environment app."
-          },
-           {
-            "future": "By using etoy app, you are helping in cutting down on the current plastic used resulting in waste across our planet & making another kid happy."
-          },
-          {
-            "future": "Contact the toy provider through etoy and confirm the drop-off point to close the deal. etoy is a peer-to-peer marketplace."
-          },
-          {
-            "future": "We also love to give back! Close the deal, and engage with etoyers to gain points & gifts. Be a recycling etoyer hero your child will proud of!."
-          }
-
         ]
       },
       {

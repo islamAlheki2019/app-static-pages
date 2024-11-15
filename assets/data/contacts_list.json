@@ -36,8 +36,8 @@
     },
     {
       "type": 5,
-      "url": "islam_alheki/",
-      "endPoint": "islam_alheki/",
+      "url": "official.alheki/",
+      "endPoint": "official.alheki/",
       "color": "#833AB4",
       "enabled": true,
       "icon": "instagram"
